@@ -1,5 +1,5 @@
 ## Load game
-* Paste this into paste URL of load project in MakeCode **https://github.com/dolphinlovescoding/treasureadventure_chinese** 並按一下匯入
+* Paste this into paste URL of load project in MakeCode **https://github.com/dolphinlovescoding/treasureadventure_chinese** 
 > 在 [[https://snowycorgi.github.io/treasureadventure_chinese/](https://dolphinlovescoding.github.io/TreasureAdventure_Chinese/) 打開此頁面
 
 ## 作為擴充功能使用
